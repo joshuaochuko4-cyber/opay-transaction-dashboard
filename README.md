@@ -59,7 +59,8 @@ OPay bank statement data covering January to December 2025.
 - Weekdays showed consistently higher transaction volumes than weekends
 
 ## Dashboard Preview
-![Dashboard](![image](https://github.com/user-attachments/assets/884b8bb2-07b5-406a-85d2-5c7f311afc8a)
+![Dashboard](![image](https://github.com/user-attachments/assets/cdc6c9cb-1e0d-4975-bab7-cbf50468f956)
+
 
 )
 
